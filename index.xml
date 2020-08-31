@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angels Plato</title>
-    <link>http://www.example.com/</link>
+    <link>https://angelsplato.github.io/</link>
     <description>Recent content on Angels Plato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Aug 2020 14:37:31 +0200</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angelsplato.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The come up</title>
-      <link>http://www.example.com/posts/intro/</link>
+      <link>https://angelsplato.github.io/posts/intro/</link>
       <pubDate>Mon, 31 Aug 2020 14:37:31 +0200</pubDate>
       
-      <guid>http://www.example.com/posts/intro/</guid>
+      <guid>https://angelsplato.github.io/posts/intro/</guid>
       <description></description>
     </item>
     
