@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Angels Plato</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on Angels Plato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Aug 2020 14:37:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The come up</title>
+      <link>http://www.example.com/posts/intro/</link>
+      <pubDate>Mon, 31 Aug 2020 14:37:31 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/intro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
