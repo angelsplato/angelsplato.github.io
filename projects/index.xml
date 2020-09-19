@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angels Plato</title>
-    <link>https://angelsplato.github.io/</link>
-    <description>Recent content on Angels Plato</description>
+    <title>Projects on Angels Plato</title>
+    <link>https://angelsplato.github.io/projects/</link>
+    <description>Recent content in Projects on Angels Plato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Aug 2020 14:37:31 +0200</lastBuildDate>
     
-	<atom:link href="https://angelsplato.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angelsplato.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>MHF publishes real stories to educate and inspire those living with mental problems.The MHF Stories are gathered from people with experiencing mental health problems, families affected by mental problems and therapists treating those cases.MFS
 Github : https://github.com/angelsplato/Mental-Health-First
 Tech stack  Spring boot Java Angular Typescript JHipster Hadoop  </description>
-    </item>
-    
-    <item>
-      <title>The come up</title>
-      <link>https://angelsplato.github.io/posts/intro/</link>
-      <pubDate>Mon, 31 Aug 2020 14:37:31 +0200</pubDate>
-      
-      <guid>https://angelsplato.github.io/posts/intro/</guid>
-      <description></description>
     </item>
     
     <item>
